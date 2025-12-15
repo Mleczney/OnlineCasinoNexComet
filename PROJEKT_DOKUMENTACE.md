@@ -257,33 +257,7 @@ Příklad:
 
 ---
 
-## 7. Pokrytí tématu
-
-### ✅ Funkcionalita Online Casina
-Projekt pokrývá základní funkcionalitu online casina:
-
-**Pro hráče:**
-- Registrace a přihlášení
-- Vklad kreditu (simulovaný)
-- Hraní her (dice game)
-- Zobrazení historie sázek
-- Zobrazení profilu a statistik
-
-**Pro admina:**
-- Správa všech hráčů
-- Správa her
-- Sledování všech sázek
-- Sledování transakcí
-- Sledování herních relací
-
-**Pro managera:**
-- Správa her
-- Sledování sázek
-- Sledování herních relací
-
----
-
-## 8. Struktura projektu
+## 7. Struktura projektu
 
 ```
 OnlineCasino/
@@ -340,68 +314,9 @@ OnlineCasino/
 ```
 
 ---
-
-## 9. Jak spustit projekt
-
-### 9.1 Předpoklady
-- .NET 9.0 SDK
-- SQL Server (LocalDB nebo jiná instance)
-
-### 9.2 Kroky
-1. Klonovat repozitář
-2. Přejít do složky projektu: `cd OnlineCasino/OnlineCasino`
-3. Obnovit balíčky: `dotnet restore`
-4. Nastavit connection string v `appsettings.json` (výchozí je LocalDB)
-5. Spustit migrace: `dotnet ef database update`
-   - **Poznámka**: Pokud databáze již existuje z předchozího pokusu, smazat ji: `dotnet ef database drop --force`
-6. Spustit aplikaci: `dotnet run`
-7. Přihlásit se jako admin (username: `admin`, heslo: `Admin123`)
-
-### 9.3 Řešení problémů
-
-#### Chyba při migraci: "There is already an object named 'AspNetRoles' in the database"
-Tato chyba nastává, když databáze již existuje z předchozího pokusu. Řešení:
-```bash
-dotnet ef database drop --force
-dotnet ef database update
-```
-
-### 9.4 Testovací účty
+### 8. Testovací účty
 - **Admin**: username: `admin`, heslo: `Admin123`
 - **Manager**: username: `manager`, heslo: `Manager123`
 - **Player**: Registrovat nového uživatele
 
 ---
-
-## 10. Závěr
-
-Projekt splňuje všechny požadavky:
-
-✅ ASP.NET Core MVC 9.0  
-✅ Vícevrstvá architektura (Presentation, Application, Infrastructure, Domain)  
-✅ Všechna funkcionalita přes Services  
-✅ Oddělení vrstev (Presentation nepoužívá Infrastructure)  
-✅ Code-First s migracemi  
-✅ Minimálně 5 entit + ViewModels/DTOs  
-✅ Cizí klíče mezi entitami  
-✅ Admin Area s CRUD pro všechny entity  
-✅ Editace položek  
-✅ Serverová i klientská validace  
-✅ Vlastní validační atribut (MinimumBalanceAttribute)  
-✅ ASP.NET Core Identity s rolemi (Admin, Manager, Player)  
-✅ Autorizační atributy  
-✅ Bootstrap pro responzivní design  
-✅ Dostatečné pokrytí tématu Online Casino  
-
----
-
-## 11. Možná rozšíření
-
-- Více typů her (blackjack, roulette, poker)
-- Real-time notifikace (SignalR)
-- Leaderboard (žebříček hráčů)
-- Bonusy a promoce
-- Historie výběrů a vkladů
-- Email notifikace
-- 2FA autentizace
-- Chat podpora
