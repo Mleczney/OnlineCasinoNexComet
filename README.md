@@ -61,40 +61,10 @@ cd OnlineCasino/OnlineCasino
 dotnet restore
 
 # 4. Vytvořit databázi a aplikovat migrace
-# POZNÁMKA: Pokud databáze již existuje z předchozích pokusů, nejprve ji smažte:
-# dotnet ef database drop --force
 dotnet ef database update
 
 # 5. Spustit aplikaci
 dotnet run
-```
-
-### 🔧 Řešení problémů
-
-#### Chyba: "There is already an object named 'AspNetRoles' in the database"
-
-Tato chyba nastává, když databáze již existuje z předchozího pokusu o instalaci. Řešení:
-
-```bash
-# Smazat existující databázi
-dotnet ef database drop --force
-
-# Znovu vytvořit databázi s migrací
-dotnet ef database update
-```
-
-#### Resetování databáze
-
-Pro kompletní reset databáze a dat:
-
-```bash
-# 1. Smazat databázi
-dotnet ef database drop --force
-
-# 2. Vytvořit novou databázi
-dotnet ef database update
-
-# 3. Po spuštění aplikace (dotnet run) se automaticky vytvoří testovací účty
 ```
 
 ## 👤 Testovací účty
