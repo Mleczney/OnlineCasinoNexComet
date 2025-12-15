@@ -78,11 +78,3 @@ Po spuštění aplikace můžete použít:
 ## 📚 Dokumentace
 
 Kompletní dokumentaci projektu najdete v souboru [PROJEKT_DOKUMENTACE.md](PROJEKT_DOKUMENTACE.md)
-
-## 📝 Licence
-
-MIT License
-
-## 👨‍💻 Autor
-
-Mleczney
