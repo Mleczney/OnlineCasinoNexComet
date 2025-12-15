@@ -1,0 +1,29 @@
+﻿@model OnlineCasino.Models.Player
+
+@{
+    ViewData["Title"] = "Player Details";
+}
+
+<div class="container mt-4">
+    <div class="card bg-dark text-light">
+        <div class="card-header">
+            <h3>Player Details</h3>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Username</dt>
+                <dd class="col-sm-9">@Model.Username</dd>
+
+                <dt class="col-sm-3">Balance</dt>
+                <dd class="col-sm-9">@Model.Balance.ToString("C")</dd>
+            </dl>
+
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">
+                <i class="bi bi-pencil"></i> Edit
+            </a>
+            <a asp-action="Index" class="btn btn-secondary ms-2">
+                <i class="bi bi-arrow-left"></i> Back to List
+            </a>
+        </div>
+    </div>
+</div>

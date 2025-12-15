@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KKata\\Desktop\\OnlineCasinoNexComet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8FE6F8-B4CD-4656-BD0D-F3EFF4475541}|OnlineCasino\\OnlineCasino.csproj|c:\\users\\kkata\\desktop\\onlinecasinonexcomet\\onlinecasino\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A8FE6F8-B4CD-4656-BD0D-F3EFF4475541}|OnlineCasino\\OnlineCasino.csproj|solutionrelative:onlinecasino\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KKata\\Desktop\\OnlineCasinoNexComet\\OnlineCasino\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineCasino\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KKata\\Desktop\\OnlineCasinoNexComet\\OnlineCasino\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineCasino\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFEAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T21:45:39.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

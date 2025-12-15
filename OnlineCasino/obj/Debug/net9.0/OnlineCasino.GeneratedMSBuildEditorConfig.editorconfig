@@ -1,0 +1,233 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineCasino
+build_property.RootNamespace = OnlineCasino
+build_property.ProjectDir = C:\Users\KKata\Desktop\OnlineCasinoNexComet\OnlineCasino\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\KKata\Desktop\OnlineCasinoNexComet\OnlineCasino
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Bets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmV0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/GameSessions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZVNlc3Npb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Games/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Games/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Games/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FtZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Players/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGxheWVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Players/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGxheWVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Players/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGxheWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/Transactions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVHJhbnNhY3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Account/Deposit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXBvc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/BalanceDeposit/DepositBalance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFsYW5jZURlcG9zaXRcRGVwb3NpdEJhbGFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/BalanceDeposit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFsYW5jZURlcG9zaXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Bets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Bets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Bets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Bets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Bets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Bets/Play.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV0c1xQbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Bets/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV0c1xSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Bets/ShowBets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV0c1xTaG93QmV0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Blackjack/Game.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxhY2tqYWNrXEdhbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Blackjack/Play.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxhY2tqYWNrXFBsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Blackjack/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxhY2tqYWNrXFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Games/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Games/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Games/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Games/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Games/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Login/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Players/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Players/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Players/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Players/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Players/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/SlotMachine/Play.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xvdE1hY2hpbmVcUGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/SlotMachine/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xvdE1hY2hpbmVcUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KKata/Desktop/OnlineCasinoNexComet/OnlineCasino/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2bjumks1fj

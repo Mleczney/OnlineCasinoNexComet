@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "🎲 Mini sázecí hra";
+    Layout = "_Layout";
+}
+
+<h2>🎲 Mini sázecí hra</h2>
+
+<form method="post" asp-action="Play">
+    <div class="mb-3">
+        <label>Vyber hru:</label>
+        <select class="form-select" name="gameId" asp-items="ViewBag.Games"></select>
+    </div>
+
+    <div class="mb-3">
+        <label>Částka sázky:</label>
+        <input type="number" name="amount" step="0.01" required class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Tipni číslo (1–5):</label>
+        <input type="number" name="guess" min="1" max="5" required class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Vsadit 💰</button>
+</form>
+
+
+@if (ViewBag.Message != null)
+{
+    <p style="color:red;">@ViewBag.Message</p>
+}
